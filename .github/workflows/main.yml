@@ -1,0 +1,7 @@
+- name: Render json
+  # You may pin to the exact commit or the version.
+  # uses: loveloper44/render-json-action@b4e05d10a5f9dfb123737039dfd19f5ee2e981d8
+  uses: loveloper44/render-json-action@v2.0.2
+  with:
+    # Json file path
+    json: test.json
